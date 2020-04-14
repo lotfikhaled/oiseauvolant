@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+}
+#containeur{
+ 
+    border: 1px solid black;
+    margin: auto;
+    width: 288px;
+}
